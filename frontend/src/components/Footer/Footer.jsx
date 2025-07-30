@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
            <img src={assets.logo} alt="" />
-           <p>let's wait and see for what to write in this dummp chapter in a moment</p>
+           <p>Fresh food. Fast delivery. Everyday delight. At Tomato, we believe good food should be effortless. From farm-fresh ingredients to doorstep delivery, we’re here to make your meals memorable. Hungry?<br/> Let’s get it to you—hot, tasty, and on time.</p>
            <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
             <img src={assets.twitter_icon} alt="" />
